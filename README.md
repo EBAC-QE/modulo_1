@@ -1,4 +1,4 @@
-# modulo 1: Competências
+# Módulo 1: Competências
 
 Curso: EBAC - Engenheiro de testes 
 
